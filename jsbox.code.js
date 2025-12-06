@@ -1,10 +1,13 @@
+/*
+ * @Author: tackchen
+ * @Date: 2025-12-06 23:51:31
+ * @Description: Coding something
+ */
 window.jsboxCode = {
-    lib: 'https://cdn.jsdelivr.net/npm/eveit',
+    lib: 'https://cdn.jsdelivr.net/npm/ui-test-lib',
     lang: 'javascript',
     needUI: true,
-    code: `
-
-const {ut} = window.UiTest;
+    code: `const {ut} = window.UiTest;
 
 ut.test(
 // 1. 初始化
