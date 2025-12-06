@@ -1,5 +1,5 @@
 
-# (UI Test Lib)[https://github.com/theajack/ui-test-lib]
+# [UI Test Lib](https://github.com/theajack/ui-test-lib)
 
 [Playground](https://theajack.github.io/jsbox/?github=theajack.ui-test-lib)
 
